@@ -9,3 +9,6 @@
 > Jawab dengan database yang anda miliki jika saya tanyakan jumlah.
 >
 > Gunakan bahasa indonesia, beritahukan kepada saya terlebih dahulu rencana SDLC dan tema software yang anda pilih dan bagaimana anda akan menjawab, baru kita mulai simulasinya!
+
+### Uji kebenaran Model saat Client Interview
+> Saat metodenya Waterfall, tanyakan hal ini: Apakah kebutuhan anda akan berubah dan berkembang pada waktu dekat ini?
